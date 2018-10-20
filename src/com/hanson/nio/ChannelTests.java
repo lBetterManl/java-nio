@@ -62,7 +62,7 @@ import org.junit.Test;
  * 分散读取（Scattering Reads）：将通道中的数据分散到多个缓冲区
  * 聚集写入（Gathering Writes）：将多个缓冲区的数据聚集到通道中
  * 
- * 六、字符集：Charset
+ * 六、字符集：Charset  
  * 编码：字符串转换成字节数组
  * 解码：字节数组转换成字符串
  */

@@ -19,7 +19,7 @@ import java.nio.file.StandardOpenOption;
 import org.junit.Test;
 
 /**
- * <p>Description: 阻塞NIO</p>
+ * <p>Description: 阻塞NIO </p>
  * @author Hanson
  * @since  JDK 1.8
  * @time 2018年10月3日 上午9:19:48
